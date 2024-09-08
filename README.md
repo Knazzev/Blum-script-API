@@ -20,5 +20,3 @@
 - Перемещать все файлы, кроме `blum.exe` категорически не рекомендуется.
 
 ![Blum](assets/blum.png)
-
-<!-- ![Hamster](assets/hamster.jpg) -->
